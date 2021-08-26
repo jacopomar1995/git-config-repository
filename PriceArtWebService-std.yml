@@ -8,7 +8,7 @@ application:
 # ==============================================================
 info:
   assistenza:
-    nome: "Nicola La Rocca"
+    nome: "Jacopo Marrese"
   nome:
     nome-app: "PriceArt Web Service - Versione Autenticazione JWT"
   profilo: "Profilo Standard con Sconto"
